@@ -1,0 +1,10 @@
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Release\EdytorTekstu.exe.config
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Release\EdytorTekstu.exe
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Release\EdytorTekstu.pdb
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.csprojResolveAssemblyReference.cache
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.Images.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.MainForm.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.Properties.Resources.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.csproj.GenerateResource.Cache
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.exe
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Release\EdytorTekstu.pdb

@@ -1,0 +1,21 @@
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.exe.config
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.exe
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.pdb
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.csprojResolveAssemblyReference.cache
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.Form1.resources
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.Properties.Resources.resources
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.csproj.GenerateResource.Cache
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.exe
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.pdb
+C:\Users\kzebik\Google Drive\private\Praca magisterska\Badania\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.FindWindow.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.exe.config
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.exe
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.pdb
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.exe
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\bin\Debug\EdytorTekstu.pdb
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.csprojResolveAssemblyReference.cache
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.FindWindow.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.Properties.Resources.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.csproj.GenerateResource.Cache
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.Images.resources
+F:\NotepadWinforms\EdytorTekstu_WinForms\EdytorTekstu\EdytorTekstu\obj\Debug\EdytorTekstu.MainForm.resources
